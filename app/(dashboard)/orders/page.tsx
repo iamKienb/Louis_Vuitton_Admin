@@ -48,4 +48,5 @@ const Order = () => {
   );
 };
 
+export const dynamic = "force-dynamic";
 export default Order;
